@@ -45,7 +45,7 @@ To upload a file, use the `upload_file` method in the client.py script:
 Downloading a File
 To download a file, use the download_file method, specifying the file ID and the download location:
 `client.download_file('file.txt', 'path/to/download')`
-#### Additional Files
+### Additional Files
 requirements.txt: Each component should have its own requirements.txt file listing the necessary Python packages. For this project, the primary dependency is the Python socket library, which is part of the standard library.
-##### Contributing
+### Contributing
 Contributions to this project are welcome. Please ensure to follow best practices for code style and commit messages.
