@@ -32,11 +32,13 @@ DistributedFileStorageSystem/
 `pip install -r requirements.txt`
 3. Run the Node Server:
 `python node_server.py`
+
 **Client**
 1. Navigate to the Client directory.
 2. Install the required packages:
 `pip install -r requirements.txt`
 Use client.py to upload or download files.
+
 ### Usage
 **Uploading a File**
 To upload a file, use the `upload_file` method in the client.py script:
